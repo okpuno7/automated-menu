@@ -1,0 +1,13 @@
+p{
+    max-width: 450px;
+}
+.menu h2{
+    text-align: center;
+}
+.menu .btn-container{
+    text-align: center;
+}
+.a  , article{
+    display: inline-block;
+    justify-content:space-evenly;
+}
